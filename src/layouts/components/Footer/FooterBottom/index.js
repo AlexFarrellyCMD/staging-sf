@@ -11,7 +11,7 @@ const FooterBottom = () => {
         <div className={clsx("row", styles.row)}>
           <div className="col-md-auto">
             <small className={styles.copyright}>
-              &copy; 2021 TradePricesDirect.com | All rights reserved
+              &copy; 2023 ConstructionMaterialsDirect.com | All rights reserved
             </small>
           </div>
           <div className="col-md-auto">
