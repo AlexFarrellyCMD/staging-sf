@@ -32,7 +32,7 @@ const FooterBottom = () => {
 
         <p
           className={styles.trademark}
-        >{`TradePricesDirect.com is the trading name of White Mansion Ltd and is authorised and regulated by the Financial Conduct Authority. FCA register No. 917875. Finance options are provided by a panel of lenders. Finance available subject to status. Terms and conditions apply. TradePricesDirect.com acts as a credit broker and is not a lender. Any credit is subject to status, affordability and a credit check. TradePricesDirect.com Trademark No. UK00003275363 is a trading name of White Mansion Ltd a company registered in United Kingdom. Registered number: 11990071. VAT No. GB 336 4322 16. Registered office: 43 Berkeley Square, London W1J 5AP.`}</p>
+        >{`Construction Materials Direct Trademark No. UK00003849764 is a trading name of By Degrees 2 Ltd a company registered in United Kingdom. Registered Company No. 11303606. VAT Reg No. GB 310 3382 53. Registered Office Address: 25A Market Square, Bicester, Oxfordshire OX26 6AD.`}</p>
       </div>
     </div>
   );
