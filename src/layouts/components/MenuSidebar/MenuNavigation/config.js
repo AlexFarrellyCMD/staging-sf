@@ -5,12 +5,12 @@ const menuConfig = {
   main: [
     {
       id: uuid(),
-      name: "About TPD",
+      name: "About CMD",
       href: paths.about,
     },
     {
       id: uuid(),
-      name: "Trade Account",
+      name: "CMD Account",
       href: paths.register,
     },
     {
