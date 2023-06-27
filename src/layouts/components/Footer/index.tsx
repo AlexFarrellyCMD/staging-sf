@@ -24,8 +24,8 @@ const Footer: FC<{ menus: any; className?: string }> = ({
               <Logo className={styles.logo} />
 
               <p className={styles.strapline}>
-                <Link href={paths.login}>{"Register with TPD"}</Link>
-                {" and get access to 100's of top brands at trade prices."}
+                <Link href={paths.login}>{"Register with CMD"}</Link>
+                {" and get access to 100's of top brands at Construction Direct."}
               </p>
 
               <Newsletter />
